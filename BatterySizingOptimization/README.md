@@ -1,1 +1,1 @@
-You can add your data file with "csv" or any format here. This data file should contain 2 columns, DateTime and Hourly Load (MW).
+You can add your data file with "csv" or any format here. For this battery size optimization code, you will need 4 data files, 
