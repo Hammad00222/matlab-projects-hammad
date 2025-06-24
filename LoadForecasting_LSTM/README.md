@@ -1,1 +1,1 @@
-You can add your own data file with ".csv" format in this folder
+You can add your own data file with ".csv" format in this folder with first column as "DateTime" and second column as "Load(MW)". This data should be hourly load data of past one or two years, to train the LSTM model.
